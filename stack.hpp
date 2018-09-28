@@ -4,7 +4,6 @@
 #endif //LAB3_STACK_HPP
 
 class Stack {
-
         private:
             int top1;
             int a[];
@@ -13,6 +12,7 @@ class Stack {
         Stack();
         bool push (int r);
         void pop();
+
         int top() const {
             return top1;
         }
