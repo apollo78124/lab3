@@ -1,6 +1,3 @@
-//
-// Created by dldms on 9/27/2018.
-//
 #include <iostream>
 #include "stack.hpp"
 
@@ -21,10 +18,7 @@ void Stack::pop() {
     top1--;
 }
 
-int main() {
-    std::cout<<"hello"<<std::endl;
-    return 0;
-}
+
 
 
 

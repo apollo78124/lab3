@@ -1,7 +1,3 @@
-//
-// Created by dldms on 9/27/2018.
-//
-
 #ifndef LAB3_STACK_HPP
 #define LAB3_STACK_HPP
 
